@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vox plebis: or, The voice of the oppressed commons of England against their oppressors.</title>
+            <author>Overton, Richard, fl. 1646.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96028</idno>
+            <idno type="STC">Wing V727</idno>
+            <idno type="STC">Thomason E691_13</idno>
+            <idno type="STC">ESTC R206972</idno>
+            <idno type="EEBO-CITATION">99866051</idno>
+            <idno type="PROQUEST">99866051</idno>
+            <idno type="VID">166489</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96028)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166489)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 107:E691[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Vox plebis: or, The voice of the oppressed commons of England against their oppressors.</title>
+                  <author>Overton, Richard, fl. 1646.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeer 1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aprill London 18th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166489:1" rendition="simple:additions"/>
+            <p>Vox Plebis: Or, THE VOICE OF THE OPPRESSED COMMONS OF ENGLAND Againſt their OPPRESSORS.</p>
+            <q>
+               <bibl>
+                  <hi>Prov. 19.20.</hi>
+               </bibl> Hear counſel and receive inſtruction, that thou mayeſt be wiſe in thy latter end.</q>
+            <q>
+               <bibl>
+                  <hi>Prov. 11.21.</hi>
+               </bibl> Though hand joyn in hand, the wicked ſhall not be un<g ref="char:EOLhyphen"/>puniſhed: but the ſeed of the righteous ſhall be delivered.</q>
+            <p>Printed in the yeer 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:166489:2"/>
+            <pb n="1" facs="tcp:166489:2"/>
+            <head>VOX PLEBIS.</head>
+            <opener>
+               <salute>SIRS,</salute>
+            </opener>
+            <p>BLame us not (ſeeing it is now high time after our many yeers ſufferings and tedious expectation to be delivered from our then declared preſſures and grievances) that we (by you declared) the free Commons of <hi>England</hi> ſhould have leave (for loſers may have leave to ſpeak) to tell you that we cannot but with bitterneſs of ſpirit declare, That we wonder with what ſtrange and unheard of preſidents, this Parliament hath acted, there having never been any viſible rule for ſuch acti<g ref="char:EOLhyphen"/>ons in or by any Parliament before.</p>
+            <p>But leaving to ſpeak of things that are paſt cure, let us come to expoſtulate with you, about our future ſecurity, and that long promiſed good land, <hi>viz.</hi> Peace, Freedome, and Juſtice; promiſed us at the beginning, and for which we have with the expence of our Lives and Eſtates, ſo earneſtly conteſted for.</p>
+            <p>Was it not unlimited prerogative, Corruptions in Law and Courts of Juſtice, infringment of our liberties, illegal Taxes and the like, which was by you then declared to be the miſery of the Kingdome, a door and inlet to Tyranny and Oppreſſion? And was it not that Regal power might be limited by Law, not proportioned by will? that the conſtitutions of our Laws might not be deſtroyed, but reduced to their fundamental purity? that Juſtice might be executed, and we preſerved in our Liberties and Eſtates?</p>
+            <p>Give us leave then to the expoſtulate with you a little: How comes it to paſs that (notwithſtanding all your promiſes made
+<pb n="2" facs="tcp:166489:3"/>ſo ſolemnly in the preſence of God and the Kingdome) we reap not the harveſt of this promiſed ſeed-time? How comes it to paſs, (we beſeech you) that ſuch faire bloſſoms, yeeld ſuch ſlender fruits? Whence grows this muttering, nay we may ſay groaning under, and exclamations againſt Oppreſſion, Tyranny, and Injuſtice in our ſtreets, nay Courts of (injuſtice) Juſtice we cannot call them, even at the Parliament-door, nay within the Parliament Houſe? How comes it to paſs that ſo many irregular, illegal, nay we may ſay unparliamentary proceedings are daily acted? Whence proceeds this ſpirit of Ambition, Contention, Oppreſſion, and Sedition, which reigns ſo pow<g ref="char:EOLhyphen"/>erfully among you? We cannot be ſeduced to believe, that e<g ref="char:EOLhyphen"/>ver this proceeds from principles of Law or Juſtice; but from principles of Ambition, Uſurpation, Pride, Covet<g ref="char:EOLhyphen"/>ouſneſs or the like, which is made well known to us by woeful experience, from the power of which, Good Lord de<g ref="char:EOLhyphen"/>liver us, <hi>&amp;c.</hi>
+            </p>
+            <p>Can it (think you) conſiſt with the Peace and Welfare of the Nation, eſpecially conſidering the ſtate and temper of the people, that you who ſhould be acting for the Subjects liber<g ref="char:EOLhyphen"/>ty ſhould drive on your own particular intereſts? Is this to diſcharge the truſt which you have in the preſence of God ſo often ſworn to performe? Surely ſo long as you continue thus, we cannot hope for any good, either by or from you.</p>
+            <p>What made you exclaime ſo vehemently againſt preroga<g ref="char:EOLhyphen"/>tive? Was it with intent to deſtroy us by priviledge? Did you exclaime againſt Injuſtice in others, that your ſelves might be ſingular, yea ſuperlatively unjuſt? Were corruptions in the Law paſt cure, ſo that your Wills muſt be our ſupream Law? Was the taking a little of our eſtates illegal and Tyran<g ref="char:EOLhyphen"/>nous in his late Majeſty, but in you Juſtice to take all? Is this the promiſed recompence for our labour? The return of our expectation, the prize for which we have undergone ſo many dubious changes in the wilderneſs of diſorder and confuſion, and for which we have ſhed ſo much blood? Certainly we looked for the good Land of Peace, but behold Oppreſſion?
+<pb n="3" facs="tcp:166489:3"/>We looked for liberty, but behold ſlavery! and our end is worſe then our beginning.</p>
+            <div type="part">
+               <head>And now having with ſorrow of heart given you ſome hints of our preſent inſufferable ſufferings, take notice (we beſeech you) of ſome of our deſires, which in the firſt place we expect ſpeedy ſatisfaction.</head>
+               <p>Firſt, Caſt your eyes back into the rock, out of which you were hewn; were you not our fellow-Commoners? Were not every one of us as equally, fully, and properly intereſted in the ſafety, welfare, and government: of the Kingdome, as any (or all) of you? Did you not receive your power from us for our good? And have you not declared your ſelves to be our ſer<g ref="char:EOLhyphen"/>vants, and to be accountable to us by whom you were impowred and intruſted? Have you not likewiſe declared, that all intruſt<g ref="char:EOLhyphen"/>ments are, and ought to be for the good of the Truſters? Up<g ref="char:EOLhyphen"/>on this ground we the free Commons of <hi>England</hi> expect from you the performance and diſcharge of your duty herein, toge<g ref="char:EOLhyphen"/>ther with the following particulars.</p>
+               <p>Secondly, Have you not declared, that the Law ought to have been the rule of the Kings actions, and muſt it not be of yours? Certainly you have ſometime confeſt, that they that give Law to others ought not to be above Law, or without themſelves? Therefore we do expect, that all unlawful, unparliamen<g ref="char:EOLhyphen"/>tary actions, either within or without the Houſe, publickly, or privately, either by the whole Houſe, or any particular member, or any other by them intruſted or improved, be publickely declared againſt, and that a way be opened for juſt reparation againſt all ſuch arbitrary and exorbitant practiſes.</p>
+               <pb n="4" facs="tcp:166489:4"/>
+               <p>Thirdly, Have you not declared, That no free Commoner ought or might be diſ-infranchiſed of his liberty without Indite<g ref="char:EOLhyphen"/>ment, and that the fining and impriſoning men without due proceſs of Law, was a breach upon the Law, and deſtructive to the ſubjects liberty? How comes it then to paſs, that ſince your declaring it to be ſo unjuſt in others, you have ſo frequently uſed it your ſelves, to the reproach of the Nation, and breach of the truſt repoſed in you by us? What priſon hath been free; nay, what County or Corporation but hath ſome ſufferers, be<g ref="char:EOLhyphen"/>ing impriſoned by the arbritary, ſubject deſtroying power of your Committees, who for the moſt part are compoſed of ſuch as your ſelves; men without ſouls, unconſcionable wretches? the miſery whereof we expect a ſpeedy redreſs of, it being your own declared duty, and ſutable to both law and conſcience: that being no way lawful in you, which was by you condemned in others.</p>
+               <p>Fourthly, Did you not complaine that the Kings favourites ſpent the Kingdomes money, and converted the publick ſtock to private uſes? and may not we the poor Commons complaine now of the like, or rather worſe practiſes, conſidering the vaſt ſums of money levied upon us, which rather increaſe then de<g ref="char:EOLhyphen"/>creaſe; notwithſtanding the incredible ſums by you received, by Exciſe, Biſhops lands, Deans and Chapters, Kings Revenues, Delinquents Eſtates, <hi>&amp;c.</hi> with many other helliſh inventions whereby you grind the face both of the Gentry and Common<g ref="char:EOLhyphen"/>alty of this Nation, to the utter decay of Trade and Com<g ref="char:EOLhyphen"/>merce.</p>
+               <p>Beſides, hath not much (nay, I may ſay the greater part) of theſe been ſhared amongſt your ſelves, thouſands in a morning? but for what memorable ſervice we know not, unleſs it be for keeping us in perpetual ſlavery.</p>
+               <p>Fifthly, How you, exclaimed againſt his late M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>jeſty, for protecting Delinquents, and keeping them from tryal: How comes it to paſs then that you your ſelves have protected and abetted ſo many falſe and Traitorous members, under pretence of priviledge? We conceive (by your leave) the late Kings
+<pb n="5" facs="tcp:166489:4"/>prerogative was a far better plea then your priviledge, there<g ref="char:EOLhyphen"/>fore we expect a ſpeedy ſuſpenſion of all perſons charged with any crime; and that all perſons that have acted to the prejudice of the Kingdome (by cozenage, injuſtice) or otherwiſe, be ſpeedily brought to condigne puniſhment.</p>
+               <p>Laſtly, Foraſmuch as it is pretended, that (notwithſtanding the vaſt ſums of moneys that have been raiſed) the State are not able to maintaine war with the <hi>Dutch,</hi> and maintaine our ſtand<g ref="char:EOLhyphen"/>ing Army without taxations, <hi>&amp;c.</hi> We anſwer, That foraſmuch as it is apparent, that vaſt ſums of money remain in the hands of ſeveral Miniſters of State, (as Parliamentmen, Committee<g ref="char:EOLhyphen"/>men, Exciſemen, Sequeſtrators, <hi>&amp;c.</hi>) unaccounted for, to our great loſs and prejudice, we deſire, that you would ſpeedily call them to an exact account of all ſuch ſums of money by them received and detained, and to employ it for the ſervice of the Kingdome, which would ſomewhat abate our heavy burthen, under which our backs are ready to crack.</p>
+               <p>Much more might be ſaid, but we ſhall for this time conclude, deſiring and expecting the due execu<g ref="char:EOLhyphen"/>tion of juſtice and judgement; and that all means be uſed for the eaſe, peace, and ſafety of our dominions. That our burdens may be removed, the accounts of the Kingdome perfected; the Publike Faith, and other Publike debts ſatisfied; our grievous burthens by tax<g ref="char:EOLhyphen"/>ations and otherwiſe eaſed; and our Petitions for Peace and Juſtice from time to time (without danger of being murthered by you Red-coated-ſlaves) freely received. And ſo we expect the fulfilling of theſe our deſires, immediately laying aſide all by-reſpects and ſelf-ends; and unanimouſly act for the good of the nation, giving a ſpeedy teſtimony thereof by walking
+<pb n="6" facs="tcp:166489:5"/>in the wayes of juſtice and righteouſneſs, that thereby we may be ſecured in our juſt rights and liberties; which if you neglect to do, we ſhall not only be neceſ<g ref="char:EOLhyphen"/>ſitated to curſe the time we ever intruſted you; (which we have already repented us of) but alſo to proſe<g ref="char:EOLhyphen"/>cute you as perſons wholly bent to deſtroy our lives and liberties, and to let confuſion and deſolation break in upon us. Therefore ſeriouſly conſider of what we have laid open to you, and neglect not this faire oportunity put into your hands to do good; for if you do, the vengeance of God ſhall dog you at the heels, and you ſhall be abhorred both of God and man, and we ſhall be driven to take ſuch a courſe as providence and our preſſing neceſſities ſhall lay before us, and leave the iſſue thereof to God, who is able to direct and protect us in all our undertakings.</p>
+               <closer>
+                  <hi>Theſe are the Reſolutions of us</hi>
+                  <signed>the distreſſed Commonal<g ref="char:EOLhyphen"/>ty of England.</signed>
+                  <dateline>
+                     <date>April 1. 1653.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
